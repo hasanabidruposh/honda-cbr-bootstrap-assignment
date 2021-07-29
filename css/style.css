@@ -5,3 +5,12 @@
 .honda-button{
     background-color: #E76F51;
 }
+.modal-content {
+    color: black;
+}
+/* .modal-body{
+    color: black;
+} */
+#honda-gray{
+    filter: grayscale(100%);
+}
